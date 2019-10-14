@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Probar Luces
+Exec=phyton /home/pi/Documents/probarLuces.py
+Terminal=false
+Type=Application
