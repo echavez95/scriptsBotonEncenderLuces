@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Encender Luz
+Exec=phyton /home/pi/Documents/apagarEncenderCE.py
+Terminal=false
+Type=Application
