@@ -1,0 +1,6 @@
+  
+[Desktop Entry]
+Name=Encender Apagar Luz
+Exec=python /home/pi/Documents/EncenderApagarLuz.py
+Terminal=false
+Type=Application
