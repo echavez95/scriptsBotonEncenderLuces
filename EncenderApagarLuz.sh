@@ -1,2 +1,2 @@
 #!/bin/sh
-phyton /home/pi/Documents/EncenderApagarLuz.py
+python /home/pi/Documents/EncenderApagarLuz.py
