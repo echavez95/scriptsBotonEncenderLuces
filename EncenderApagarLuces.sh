@@ -1,2 +1,2 @@
 #!/bin/sh
-python ProbarLuces.py
+phyton /home/pi/Documents/EncenderApagarLuz.py
